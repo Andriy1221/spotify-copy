@@ -1,5 +1,8 @@
 ## Deployed Live Version
+
 Check out the deployed app at https://spotify-copy-one.vercel.app/
+
+## Next.js
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
